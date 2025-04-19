@@ -14,12 +14,12 @@ This repository is designed for:
 
 ```
 DesignPatternsInCSharp/
-├── DesignPatterns.ConsoleApp/
+├── DesignPatternsInCSharp/
 │   ├── Creational/       # Singleton, Factory, etc.
 │   ├── Structural/       # Adapter, Composite, etc.
 │   ├── Behavioral/       # Strategy, Observer, etc.
 │   ├── Program.cs        # Entry point
-│   └── DesignPatterns.ConsoleApp.csproj
+│   └── DesignPatternsInCSharp.csproj
 └── README.md
 ```
 
@@ -33,8 +33,8 @@ Each design pattern is implemented in its own `.cs` file, grouped under its corr
 
 > Focus on object creation
 
-- [Singleton](DesignPatterns.ConsoleApp/Creational/Singleton.cs)
-- 📘 [Creational README](DesignPatterns.ConsoleApp/Creational/README.md)
+- [Singleton](DesignPatternsInCSharp/Creational/Singleton.cs)
+- 📘 [Creational README](DesignPatternsInCSharp/Creational/README.md)
 
 ---
 
@@ -43,7 +43,7 @@ Each design pattern is implemented in its own `.cs` file, grouped under its corr
 > Focus on class and object composition
 
 - (Coming Soon)
-- 📘 [Structural README](DesignPatterns.ConsoleApp/Structural/README.md)
+- 📘 [Structural README](DesignPatternsInCSharp/Structural/README.md)
 
 ---
 
@@ -51,8 +51,8 @@ Each design pattern is implemented in its own `.cs` file, grouped under its corr
 
 > Focus on communication between objects
 
-- [Strategy](DesignPatterns.ConsoleApp/Behavioral/Strategy.cs)
-- 📘 [Behavioral README](DesignPatterns.ConsoleApp/Behavioral/README.md)
+- [Strategy](DesignPatternsInCSharp/Behavioral/Strategy.cs)
+- 📘 [Behavioral README](DesignPatternsInCSharp/Behavioral/README.md)
 
 ---
 
@@ -63,7 +63,7 @@ Make sure you have [.NET SDK](https://dotnet.microsoft.com/download) installed.
 ```bash
 git clone https://github.com/yourusername/DesignPatternsInCSharp.git
 cd DesignPatternsInCSharp
-dotnet run --project DesignPatterns.ConsoleApp
+dotnet run --project DesignPatternsInCSharp
 ```
 
 ---
