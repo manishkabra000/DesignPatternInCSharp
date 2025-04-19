@@ -1,0 +1,15 @@
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/bin/Debug/net9.0/DesignPatternsInCSharp
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/bin/Debug/net9.0/DesignPatternsInCSharp.deps.json
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/bin/Debug/net9.0/DesignPatternsInCSharp.runtimeconfig.json
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/bin/Debug/net9.0/DesignPatternsInCSharp.dll
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/bin/Debug/net9.0/DesignPatternsInCSharp.pdb
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/DesignPatternsInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/DesignPatternsInCSharp.AssemblyInfoInputs.cache
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/DesignPatternsInCSharp.AssemblyInfo.cs
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/DesignPatternsInCSharp.csproj.CoreCompileInputs.cache
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/DesignPatternsInCSharp.sourcelink.json
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/DesignPatternsInCSharp.dll
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/refint/DesignPatternsInCSharp.dll
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/DesignPatternsInCSharp.pdb
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/DesignPatternsInCSharp.genruntimeconfig.cache
+/Users/manishkabra/Github/DesignPatternInCSharp/DesignPatternsInCSharp/obj/Debug/net9.0/ref/DesignPatternsInCSharp.dll
