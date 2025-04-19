@@ -61,7 +61,7 @@ Each design pattern is implemented in its own `.cs` file, grouped under its corr
 Make sure you have [.NET SDK](https://dotnet.microsoft.com/download) installed.
 
 ```bash
-git clone https://github.com/yourusername/DesignPatternsInCSharp.git
+git clone https://github.com/manishkabra000/DesignPatternInCSharp.git
 cd DesignPatternsInCSharp
 dotnet run --project DesignPatternsInCSharp
 ```
